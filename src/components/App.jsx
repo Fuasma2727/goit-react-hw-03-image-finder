@@ -63,7 +63,7 @@ export const App = () => {
         flexDirection: 'column',
         alignItems: 'center',
         backgroundColor: '#f0f0f0',
-        minHeight: '100vh',
+        minHeight: '101vh',
       }}
     >
       <Searchbar onSubmit={updateSubmit} />
